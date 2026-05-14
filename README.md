@@ -1,0 +1,1 @@
+This is a simple Python password manager. It can add, retrieve, save, load, update, delete, and list saved passwords. It also includes password strength checking and random password generation. The provided unit tests pass successfully.
